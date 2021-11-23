@@ -1,23 +1,23 @@
-String data = """[
-  { "name": "Пол Коня",
+[
+  {
+    "name": "Пол Коня",
     "description": "Старого очень",
     "imageUrl": "http://pnagaev.ru/wp-content/uploads/2013/12/03_talking-horse-150x150.jpg",
-    "oldPrice": 150.0,
+    "oldPrice": 150,
     "newPrice": 99.99
   },
-  { "name": "Вантуз",
+  {
+    "name": "Вантуз",
     "description": "Грязный!",
     "imageUrl": "https://mile.by/images/cache/_thumb_600x600xin_upload_iblock_b09_1389466_1.jpg",
-    "oldPrice": 10.0,
+    "oldPrice": 10,
     "newPrice": 1.99
   },
-  { "name": "Кура",
+  {
+    "name": "Кура",
     "description": "Общипанная",
     "imageUrl": "https://res.cloudinary.com/lmru/image/upload/f_auto,q_auto,w_1200,h_1200,c_pad,b_white,d_photoiscoming.png/LMCode/82402182.jpg",
-    "oldPrice": 15.0,
+    "oldPrice": 15,
     "newPrice": 8.99
   }
 ]
-""";
-
-// тут что-нибудь будет
